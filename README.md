@@ -1,4 +1,4 @@
-<p align="center">Hello World</p>
+<p align="center">Hello World 👋🏾</p>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">Tecnologias</p>
+<p align="center">Linguagens e Tecnologias de desenvolvimento</p>
 
 ###
 
@@ -24,9 +24,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -37,7 +34,7 @@
 
 ###
 
-<p align="center">Onde me achar</p
+<p align="center">Rede de contatos</p
                                  
 ###
 
@@ -48,20 +45,7 @@
   <a href="https://www.instagram.com/claudirgoes_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/@devClaudinho17" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
   <a href="mailto:claudirsantos.goes1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31frjgzmjhakbi4egfhrwedhnkba">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31frjgzmjhakbi4egfhrwedhnkba&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
