@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <h1 align="center">Hello World 👋🏾</h1>
 
 
@@ -12,7 +14,14 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,py,java,linux&theme=dark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32px" width="32px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32px" width="32px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32px" width="32px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32px" width="32px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="32px" width="32px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height="32px" width="32px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="32px" width="32px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32px" width="32px" />
 </p>
 
 ###
@@ -27,8 +36,7 @@
                                  
 ###
 
-<a text-align="center" href="https://www.linkedin.com/in/claudir-santos-goes10" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="linkedin logo"/></a> 
-<a href="https://www.instagram.com/claudirgoes_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="instagram logo"/></a> 
+<a text-align="center" href="https://www.linkedin.com/in/claudir-santosgoes/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="linkedin logo"/></a> 
 <a href="mailto:claudirsantos.goes1@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="gmail logo"/></a>
   
 
